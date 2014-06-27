@@ -1,0 +1,6 @@
+C:\Users\AppDev Master\Documents\Visual Studio 2010\Projects\Scott\test\LINQLab_ex02\LINQLab\bin\Debug\IntroLabCompleted.exe.config
+C:\Users\AppDev Master\Documents\Visual Studio 2010\Projects\Scott\test\LINQLab_ex02\LINQLab\obj\Debug\IntroLabCompleted.exe
+C:\Users\AppDev Master\Documents\Visual Studio 2010\Projects\Scott\test\LINQLab_ex02\LINQLab\obj\Debug\IntroLabCompleted.pdb
+C:\Users\AppDev Master\Documents\Visual Studio 2010\Projects\Scott\test\LINQLab_ex02\LINQLab\bin\Debug\IntroLabCompleted.exe
+C:\Users\AppDev Master\Documents\Visual Studio 2010\Projects\Scott\test\LINQLab_ex02\LINQLab\bin\Debug\IntroLabCompleted.pdb
+C:\Users\AppDev Master\Documents\Visual Studio 2010\Projects\Scott\test\LINQLab_ex02\LINQLab\obj\Debug\ResolveAssemblyReference.cache

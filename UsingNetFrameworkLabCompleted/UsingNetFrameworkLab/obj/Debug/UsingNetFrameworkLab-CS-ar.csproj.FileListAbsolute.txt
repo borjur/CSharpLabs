@@ -1,0 +1,5 @@
+c:\temp\projects\UsingNetFrameworkLab-CS-ar\UsingNetFrameworkLab-CS-ar\obj\Debug\ResolveAssemblyReference.cache
+c:\temp\projects\UsingNetFrameworkLab-CS-ar\UsingNetFrameworkLab-CS-ar\bin\Debug\UsingNetFrameworkLab-CS-ar.exe
+c:\temp\projects\UsingNetFrameworkLab-CS-ar\UsingNetFrameworkLab-CS-ar\bin\Debug\UsingNetFrameworkLab-CS-ar.pdb
+c:\temp\projects\UsingNetFrameworkLab-CS-ar\UsingNetFrameworkLab-CS-ar\obj\Debug\UsingNetFrameworkLab-CS-ar.exe
+c:\temp\projects\UsingNetFrameworkLab-CS-ar\UsingNetFrameworkLab-CS-ar\obj\Debug\UsingNetFrameworkLab-CS-ar.pdb

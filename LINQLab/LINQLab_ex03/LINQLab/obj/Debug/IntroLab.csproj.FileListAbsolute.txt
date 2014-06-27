@@ -1,0 +1,15 @@
+E:\Active\AppDev\LINQ\Labs\CS\IntroLab\IntroLab\bin\Debug\IntroLabCompleted.exe.config
+E:\Active\AppDev\LINQ\Labs\CS\IntroLab\IntroLab\bin\Debug\IntroLabCompleted.exe
+E:\Active\AppDev\LINQ\Labs\CS\IntroLab\IntroLab\bin\Debug\IntroLabCompleted.pdb
+E:\Active\AppDev\LINQ\Labs\CS\IntroLab\IntroLab\obj\Debug\ResolveAssemblyReference.cache
+E:\Active\AppDev\LINQ\Labs\CS\IntroLab\IntroLab\obj\Debug\IntroLabCompleted.exe
+E:\Active\AppDev\LINQ\Labs\CS\IntroLab\IntroLab\obj\Debug\IntroLabCompleted.pdb
+C:\Users\AppDev User\Desktop\LINQ\Ken\Labs\CS\IntroLab\IntroLab\bin\Debug\IntroLabCompleted.exe.config
+C:\Users\AppDev User\Desktop\LINQ\Ken\Labs\CS\IntroLab\IntroLab\obj\Debug\IntroLabCompleted.exe
+C:\Users\AppDev User\Desktop\LINQ\Ken\Labs\CS\IntroLab\IntroLab\obj\Debug\IntroLabCompleted.pdb
+C:\Users\AppDev User\Desktop\LINQ\Ken\Labs\CS\IntroLab\IntroLab\bin\Debug\IntroLabCompleted.exe
+C:\Users\AppDev User\Desktop\LINQ\Ken\Labs\CS\IntroLab\IntroLab\bin\Debug\IntroLabCompleted.pdb
+C:\Users\AppDev User\Desktop\LINQ\Ken\Labs\CS\IntroLab\IntroLab\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AppDev Master\Documents\Visual Studio 2010\Projects\Scott\test\LINQLab_ex03\IntroLab\bin\Debug\IntroLabCompleted.exe.config
+C:\Users\AppDev Master\Documents\Visual Studio 2010\Projects\Scott\test\LINQLab_ex03\IntroLab\obj\Debug\IntroLabCompleted.exe
+C:\Users\AppDev Master\Documents\Visual Studio 2010\Projects\Scott\test\LINQLab_ex03\IntroLab\obj\Debug\IntroLabCompleted.pdb
